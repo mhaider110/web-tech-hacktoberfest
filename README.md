@@ -1,27 +1,57 @@
-# WebTechHacktoberfest2020
+<p align="center">
+    <a href="https://hacktoberfest.digitalocean.com/">
+        <img src="assets/hacktober-logo.svg" width="30%">
+    </a>
+</p>
+<h1 align="center">🎉 Hacktoberfest 2020 🎉</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.4.
+### 🗣 Hacktoberfest is a best way to get into the open source community, which grows bigger every year. Complete the 2020 challenge and earn a limited edition T-shirt.
 
-## Development server
+📢 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest2020 and make 4 pull requests to different open source projects in GitHub between October 1st-31st and grab free SWAGS 🔥🎉.**
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## How to contribute to this project
+Here are some quick ways to contribute:
 
-## Code scaffolding
+* Add Like to an existing technology / framework [here](https://mhaider110.github.io/web-tech-hacktoberfest2020/) is the list
+    * by adding a new object in the `likes` array of `assets/data/frontend.json` or `assets/data/backend.json` maintain the same json structure.
+    * you can get the GitHub Avatar URL from - `GitHub -> Your profile -> Right click on profile image -> Copy Image Address`
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* Simplest way to contribute, Make an entry into contributors. that will be updated [here](https://mhaider110.github.io/web-tech-hacktoberfest2020/contributors)
+    * by adding a new object in `assets/data/contributors.json` maintain the same json structure.
 
-## Build
+* Add new frontend technology / framework you know. see [here](https://mhaider110.github.io/web-tech-hacktoberfest2020/) if it is not added already!
+    * by adding a new object in `assets/data/frontend.json` maintain the same json structure.
+    
+* Add new backend technology / framework you know. see [here](https://mhaider110.github.io/web-tech-hacktoberfest2020/) if it is not added already!
+    * by adding a new object in `assets/data/backend.json` maintain the same json structure.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
+Choose one or all 4, make a pull request for your work and wait for it to be merged!
+see your changes [here](https://mhaider110.github.io/web-tech-hacktoberfest2020/) as well :)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+# Getting started
+* Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
+* Clone your fork down to your local machine
 
-## Running end-to-end tests
+```markdown
+git clone https://github.com/your-username/web-tech-hacktoberfest2020.git
+```
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+* Create a branch
 
-## Further help
+```markdown
+git checkout -b branch-name
+```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+* Make your changes (choose from any task below)
+* Commit and push
+
+```markdown
+git add .
+git commit -m 'Commit message'
+git push origin branch-name
+```
+
+* Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
+* Wait for your PR review and merge approval!
+* __Star this repository__ if you had fun!
