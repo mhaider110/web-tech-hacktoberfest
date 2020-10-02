@@ -8,12 +8,12 @@ export class AppService {
    constructor(private http: HttpClient) {}
 
     getFrontendData(): Observable<any> {
-        return this.http.get("../assets/data/frontend.json");
+        return this.http.get("assets/data/frontend.json");
     }
     getBackendData(): Observable<any> {
-        return this.http.get("../assets/data/backend.json");
+        return this.http.get("assets/data/backend.json");
     }
     getContributors(): Observable<any> {
-        return this.http.get("../assets/data/contributors.json");
+        return this.http.get("assets/data/contributors.json");
     }
 }
