@@ -1,0 +1,10 @@
+<div>
+    <h1>{{technology.name}} - Main features</h1>
+    <hr />
+
+    <div *ngFor="let feature of technology.features">
+        <h3>{{feature.title}}</h3>
+        <p>{{feature.description}}</p>
+        <br />
+    </div>
+</div>

@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'web-tech-hacktoberfest2020';
+  panelOpenState = true
+  tt = true;
 }

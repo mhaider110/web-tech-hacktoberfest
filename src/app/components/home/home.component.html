@@ -1,0 +1,20 @@
+<div class="container">
+  <mat-accordion multi>
+    <mat-expansion-panel expanded>
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+          Frontend technologies / frameworks
+        </mat-panel-title>
+      </mat-expansion-panel-header>
+      <app-technology *ngFor="let tech of frontendData" [technology]="tech"></app-technology>
+    </mat-expansion-panel>
+    <mat-expansion-panel expanded>
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+          Backend technologies / frameworks
+        </mat-panel-title>
+      </mat-expansion-panel-header>
+      <app-technology *ngFor="let tech of backendData" [technology]="tech"></app-technology>
+    </mat-expansion-panel>
+  </mat-accordion>
+</div>

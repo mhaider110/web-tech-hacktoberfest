@@ -1,0 +1,18 @@
+<mat-card class="example-card" *ngIf="technology">
+    <a [href]="technology.documentationURL" target="_blank" class="documentationLink">
+        <img mat-card-image [src]="technology.imgURL" [alt]="technology.name">
+    </a>
+    <mat-card-content>
+        <p class="tech-description">
+            {{technology.description}}
+        </p>
+    </mat-card-content>
+    <mat-card-actions class="card-action">
+        <button mat-button color="primary" (click)="openDialog('likes')">
+            <mat-icon aria-hidden="false" aria-label="like" color="primary">thumb_up</mat-icon> &nbsp;
+            {{technology.likes.length}}
+        </button>
+        <span class="action-button-spacer"></span>
+        <button mat-button color="primary" (click)="openDialog('features')">Feaures</button>
+    </mat-card-actions>
+</mat-card>

@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Spring",
+        "description": "The Spring Framework is an application framework and inversion of control container for the Java platform",
+        "imgURL": "https://spring.io/images/OG-Spring.png",
+        "documentationURL": "https://spring.io/",
+        "features": [
+            {
+                "title": "Lightweight",
+                "description": "The Spring Framework is very lightweight with respect to its size and functionality. This is due to its POJO implementation, which doesn’t force it to inherit any class or implement any interfaces."
+            },
+            {
+                "title": "Aspect-Oriented Programming (AOP)",
+                "description": "This is an important part of the Spring Framework. Aspect-Oriented Programming is used for separating cross-cutting concerns (for example, logging, security, etc.) from the business logic of the application. In the coming articles, you will be learning about this in greater detail."
+            }
+        ],
+        "likes": [
+            {
+                "fullname": "Haider",
+                "gitAvatarURL": "https://avatars2.githubusercontent.com/u/20072661?s=460&u=636a882e755818dc0aacf5c68009e227a4769cc7&v=4",
+                "gitProfileURL": "https://github.com/mhaider110"
+            }
+        ]
+    }
+]

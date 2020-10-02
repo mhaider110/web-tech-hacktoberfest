@@ -1,0 +1,20 @@
+<div class="container">
+    <div class="title">
+        <h1>Contributors</h1>
+        <hr />
+    </div>
+    <div class="contributor-container" *ngIf="constributors.length">
+        <mat-card class="contributor-card" *ngFor="let contributor of constributors">
+            <a [href]="contributor.gitProfileURL" target="_blank">
+                <mat-card-header>
+                    <mat-card-title>{{contributor.fullname}}</mat-card-title>
+                    <mat-card-subtitle>{{contributor.profession}}</mat-card-subtitle>
+                </mat-card-header>
+            </a>
+            <img mat-card-image [src]="contributor.gitAvatarURL" alt="Photo of {{contributor.fullname}}">
+            <mat-card-content>
+                <p>{{contributor.about}}</p>
+            </mat-card-content>
+        </mat-card>
+    </div>
+</div>

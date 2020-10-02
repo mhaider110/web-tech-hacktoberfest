@@ -1,0 +1,22 @@
+.container {
+    padding: 30px;
+    box-sizing: border-box;
+}
+.title{
+    text-align: center;
+    
+}
+.title h1 {
+    font-family: 'Lobster', cursive;
+}
+.contributor-card {
+    max-width: 250px;
+    display: inline-block;
+    margin: 12px 16px;
+}
+.contributor-container {
+    padding: 16px 0px;
+}
+a{
+    text-decoration: none;
+}
