@@ -9,7 +9,7 @@
 
 📢 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest2020 and make 4 pull requests to different open source projects in GitHub between October 1st-31st and grab free SWAGS 🔥🎉.**
 
-## How to contribute to this project
+## How to contribute here
 Here are some quick ways to contribute:
 
 * Add a `Like` to an existing technology / framework [here](https://mhaider110.github.io/web-tech-hacktoberfest2020/) is the list
