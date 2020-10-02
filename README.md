@@ -12,11 +12,14 @@
 ## How to contribute to this project
 Here are some quick ways to contribute:
 
-* Add Like to an existing technology / framework [here](https://mhaider110.github.io/web-tech-hacktoberfest2020/) is the list
+* Add a `Like` to an existing technology / framework [here](https://mhaider110.github.io/web-tech-hacktoberfest2020/) is the list
     * by adding a new object in the `likes` array of `assets/data/frontend.json` or `assets/data/backend.json` maintain the same json structure.
     * you can get the GitHub Avatar URL from - `GitHub -> Your profile -> Right click on profile image -> Copy Image Address`
+    
+* Add a `Feature` you know, to an existing technology / framework [here](https://mhaider110.github.io/web-tech-hacktoberfest2020/) is the list
+    * by adding a new object in the `features` array of `assets/data/frontend.json` or `assets/data/backend.json` maintain the same json structure.
 
-* Simplest way to contribute, Make an entry into contributors. that will be updated [here](https://mhaider110.github.io/web-tech-hacktoberfest2020/contributors)
+* Easiest way to contribute, Make an entry into contributors. that will be updated [here](https://mhaider110.github.io/web-tech-hacktoberfest2020/contributors)
     * by adding a new object in `assets/data/contributors.json` maintain the same json structure.
 
 * Add new frontend technology / framework you know. see [here](https://mhaider110.github.io/web-tech-hacktoberfest2020/) if it is not added already!
@@ -26,15 +29,15 @@ Here are some quick ways to contribute:
     * by adding a new object in `assets/data/backend.json` maintain the same json structure.
 
 
-Choose one or all 4, make a pull request for your work and wait for it to be merged!
+Choose one or all 5, make a pull request for your work and wait for it to be merged!
 see your changes [here](https://mhaider110.github.io/web-tech-hacktoberfest2020/) as well :)
 
 # Getting started
-* Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
-* Clone your fork down to your local machine
+* Fork this repository (Click the Fork button at the top right of this page)
+* Clone your forked repository to your local machine. 
 
 ```markdown
-git clone https://github.com/your-username/web-tech-hacktoberfest2020.git
+git clone https://github.com/your-github-username/web-tech-hacktoberfest2020.git
 ```
 
 * Create a branch
@@ -43,7 +46,7 @@ git clone https://github.com/your-username/web-tech-hacktoberfest2020.git
 git checkout -b branch-name
 ```
 
-* Make your changes (choose from any task below)
+* Make your changes (choose from any task mentioned above)
 * Commit and push
 
 ```markdown
