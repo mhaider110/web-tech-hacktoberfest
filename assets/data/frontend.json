@@ -1,0 +1,25 @@
+[
+    {
+        "name": "HTML5",
+        "description": "HTML5 is a markup language used for structuring and presenting content on the World Wide Web",
+        "imgURL": "https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png",
+        "documentationURL": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+        "features": [
+            {
+                "title": "Markup language",
+                "description": "It is a markup language, so it provides a flexible way to design web pages along with the text."
+            },
+            {
+                "title": "Platform-independent",
+                "description": "It is platform-independent because it can be displayed on any platform like Windows, Linux, and Macintosh, etc."
+            }
+        ],
+        "likes": [
+            {
+                "fullname": "Haider",
+                "gitAvatarURL": "https://avatars2.githubusercontent.com/u/20072661?s=460&u=636a882e755818dc0aacf5c68009e227a4769cc7&v=4",
+                "gitProfileURL": "https://github.com/mhaider110"
+            }
+        ]
+    }
+]
