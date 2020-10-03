@@ -1,25 +1,48 @@
 [
-    {
-        "name": "Spring",
-        "description": "The Spring Framework is an application framework and inversion of control container for the Java platform",
-        "imgURL": "https://spring.io/images/OG-Spring.png",
-        "documentationURL": "https://spring.io/",
-        "features": [
-            {
-                "title": "Lightweight",
-                "description": "The Spring Framework is very lightweight with respect to its size and functionality. This is due to its POJO implementation, which doesn’t force it to inherit any class or implement any interfaces."
-            },
-            {
-                "title": "Aspect-Oriented Programming (AOP)",
-                "description": "This is an important part of the Spring Framework. Aspect-Oriented Programming is used for separating cross-cutting concerns (for example, logging, security, etc.) from the business logic of the application. In the coming articles, you will be learning about this in greater detail."
-            }
-        ],
-        "likes": [
-            {
-                "fullname": "Haider",
-                "gitAvatarURL": "https://avatars2.githubusercontent.com/u/20072661?s=460&u=636a882e755818dc0aacf5c68009e227a4769cc7&v=4",
-                "gitProfileURL": "https://github.com/mhaider110"
-            }
-        ]
-    }
+  {
+    "name": "Spring",
+    "description": "The Spring Framework is an application framework and inversion of control container for the Java platform",
+    "imgURL": "https://spring.io/images/OG-Spring.png",
+    "documentationURL": "https://spring.io/",
+    "features": [
+      {
+        "title": "Lightweight",
+        "description": "The Spring Framework is very lightweight with respect to its size and functionality. This is due to its POJO implementation, which doesn’t force it to inherit any class or implement any interfaces."
+      },
+      {
+        "title": "Aspect-Oriented Programming (AOP)",
+        "description": "This is an important part of the Spring Framework. Aspect-Oriented Programming is used for separating cross-cutting concerns (for example, logging, security, etc.) from the business logic of the application. In the coming articles, you will be learning about this in greater detail."
+      }
+    ],
+    "likes": [
+      {
+        "fullname": "Haider",
+        "gitAvatarURL": "https://avatars2.githubusercontent.com/u/20072661?s=460&u=636a882e755818dc0aacf5c68009e227a4769cc7&v=4",
+        "gitProfileURL": "https://github.com/mhaider110"
+      }
+    ]
+  },
+  {
+    "name": "Rasa",
+    "description": "Rasa is the only serious choice for building mission-critical AI assistants",
+    "imgURL": "https://rasa.com/",
+    "documentationURL": "https://d33wubrfki0l68.cloudfront.net/37c130df420c6a673ad6c2e494c0224606ace77b/e6afa/static/60e441f8eadef13bea0cc790c8cf188b/rasa-logo.svg",
+    "features": [
+      {
+        "title": "Easy to integrate and customize",
+        "description": "The platform is easy to customize and flexible, hence, it can be modified as per your needs. Being so easy to integrate and customize, it saves your business money and also helps you get exactly what you want."
+      },
+      {
+        "title": "No state machines",
+        "description": "A state machine stores data or instructions that you feed it. It then gives the result as per the instructions. However, Rasa does not work like a state machine. Being an AI chatbot, it will be conversing with real people."
+      }
+    ],
+    "likes": [
+      {
+        "fullname": "Kuldeep Kumar",
+        "gitAvatarURL": "https://avatars3.githubusercontent.com/u/39633593?s=460&u=700c7cf01a90c7047c80d7a9640573ca8b05c320&v=4",
+        "gitProfileURL": "https://github.com/Kuldeep-Kumar-Sharma"
+      }
+    ]
+  }
 ]
