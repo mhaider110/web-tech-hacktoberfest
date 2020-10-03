@@ -19,9 +19,9 @@ jobs:
       - name: Install dependencies
         run: npm install
       - name: Build Prod
-        run: ng build --prod --base-href https://mhaider110.github.io/web-tech-hacktoberfest2020/
+        run: npm run build:prod
       - name: Test
-        run: ng test --watch=false --browsers=ChromeHeadless
+        run: npm run test:ci
       - name: Archive build
         if: success()
         uses: actions/upload-artifact@v1
