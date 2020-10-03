@@ -5,7 +5,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "build:prod": "ng build --prod --base-href https://mhaider110.github.io/web-tech-hacktoberfest2020/",
+    "build:prod": "ng build --prod --base-href=/web-tech-hacktoberfest2020/",
     "test": "ng test",
     "test:ci": "ng test --watch=false --browsers=ChromeHeadless",
     "lint": "ng lint",
