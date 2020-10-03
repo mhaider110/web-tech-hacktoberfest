@@ -25,8 +25,8 @@
   {
     "name": "Rasa",
     "description": "Rasa is the only serious choice for building mission-critical AI assistants",
-    "imgURL": "https://rasa.com/",
-    "documentationURL": "https://d33wubrfki0l68.cloudfront.net/37c130df420c6a673ad6c2e494c0224606ace77b/e6afa/static/60e441f8eadef13bea0cc790c8cf188b/rasa-logo.svg",
+    "imgURL": "https://d33wubrfki0l68.cloudfront.net/37c130df420c6a673ad6c2e494c0224606ace77b/e6afa/static/60e441f8eadef13bea0cc790c8cf188b/rasa-logo.svg",
+    "documentationURL": "https://rasa.com/",
     "features": [
       {
         "title": "Easy to integrate and customize",
@@ -42,6 +42,11 @@
         "fullname": "Kuldeep Kumar",
         "gitAvatarURL": "https://avatars3.githubusercontent.com/u/39633593?s=460&u=700c7cf01a90c7047c80d7a9640573ca8b05c320&v=4",
         "gitProfileURL": "https://github.com/Kuldeep-Kumar-Sharma"
+      },
+      {
+        "fullname": "Haider",
+        "gitAvatarURL": "https://avatars2.githubusercontent.com/u/20072661?s=460&u=636a882e755818dc0aacf5c68009e227a4769cc7&v=4",
+        "gitProfileURL": "https://github.com/mhaider110"
       }
     ]
   }
