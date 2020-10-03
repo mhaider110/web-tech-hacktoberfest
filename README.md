@@ -19,7 +19,7 @@ Here are some quick ways to contribute:
 * Add a `Feature` you know, to an existing technology / framework [here](https://mhaider110.github.io/web-tech-hacktoberfest2020/) is the list
     * by adding a new object in the `features` array of `assets/data/frontend.json` or `assets/data/backend.json` maintain the same json structure.
 
-* Easiest way to contribute, Make an entry into contributors. that will be updated [here](https://mhaider110.github.io/web-tech-hacktoberfest2020/contributors)
+* Easiest way to contribute, Make an entry into contributors. that will be updated [here](https://mhaider110.github.io/web-tech-hacktoberfest2020/#/contributors)
     * by adding a new object in `assets/data/contributors.json` maintain the same json structure.
 
 * Add new frontend technology / framework you know. see [here](https://mhaider110.github.io/web-tech-hacktoberfest2020/) if it is not added already!
