@@ -1,4 +1,5 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
+import { MatDialogModule, MatDialogRef, MAT_DIALOG_DATA } from '@angular/material/dialog';
 
 import { LikesDialogComponent } from './likes-dialog.component';
 
@@ -8,7 +9,19 @@ describe('LikesDialogComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ LikesDialogComponent ]
+      declarations: [ LikesDialogComponent ],
+      imports: [MatDialogModule],
+      providers: [{
+        provide: MatDialogRef,
+        useValue: {}
+      }, {
+        provide: MAT_DIALOG_DATA,
+        useValue: {
+          technology: {
+          name: '', 
+          likes: []
+        }}
+      }]
     })
     .compileComponents();
   });

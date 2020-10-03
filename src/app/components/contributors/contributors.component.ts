@@ -13,7 +13,6 @@ export class ContributorsComponent implements OnInit {
   constributors = []
   ngOnInit(): void {
     this.appService.getContributors().subscribe((res) => {
-      console.log(res)
       this.constributors = res;
     })
   }

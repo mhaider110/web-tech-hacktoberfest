@@ -2,7 +2,7 @@
     <h1>{{technology.name}} - Liked by</h1>
     <hr />
     <div *ngFor="let like of technology.likes">
-        <a [href]="like.gitProfileURL">
+        <a [href]="like.gitProfileURL" target="_blank">
         <mat-card class="like-card">
             <mat-card-header>
               <div mat-card-avatar class="header-image" [style.background-image]="'url(' + like.gitAvatarURL + ')'">
@@ -10,10 +10,7 @@
               <mat-card-title>{{like.fullname}}</mat-card-title>
               <mat-card-subtitle>{{like.gitProfileURL}}</mat-card-subtitle>
             </mat-card-header>
-            
           </mat-card>
         </a>
-    
-       
     </div>
 </div>

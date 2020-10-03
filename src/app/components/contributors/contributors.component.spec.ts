@@ -1,4 +1,6 @@
+import { HttpClientModule } from '@angular/common/http';
 import { ComponentFixture, TestBed } from '@angular/core/testing';
+import { AppService } from 'src/app/services/app-service';
 
 import { ContributorsComponent } from './contributors.component';
 
@@ -8,9 +10,11 @@ describe('ContributorsComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ ContributorsComponent ]
+      declarations: [ContributorsComponent],
+      imports: [HttpClientModule],
+      providers: [AppService]
     })
-    .compileComponents();
+      .compileComponents();
   });
 
   beforeEach(() => {
