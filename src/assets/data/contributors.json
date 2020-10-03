@@ -1,9 +1,16 @@
 [
-    {
-        "fullname":"Haider",
-        "profession": "Frontend Developer",
-        "about": "I'm an open source contributor!",
-        "gitAvatarURL": "https://avatars2.githubusercontent.com/u/20072661?s=460&u=636a882e755818dc0aacf5c68009e227a4769cc7&v=4",
-        "gitProfileURL": "https://github.com/mhaider110"
-    }
+  {
+    "fullname": "Haider",
+    "profession": "Frontend Developer",
+    "about": "I'm an open source contributor!",
+    "gitAvatarURL": "https://avatars2.githubusercontent.com/u/20072661?s=460&u=636a882e755818dc0aacf5c68009e227a4769cc7&v=4",
+    "gitProfileURL": "https://github.com/mhaider110"
+  },
+  {
+    "fullname": "Kuldeep Kumar",
+    "profession": "Frontend Developer",
+    "about": "Keep on clicking..",
+    "gitAvatarURL": "https://avatars3.githubusercontent.com/u/39633593?s=460&u=700c7cf01a90c7047c80d7a9640573ca8b05c320&v=4",
+    "gitProfileURL": "https://github.com/Kuldeep-Kumar-Sharma"
+  }
 ]

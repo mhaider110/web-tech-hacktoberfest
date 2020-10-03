@@ -1,25 +1,48 @@
 [
-    {
-        "name": "HTML5",
-        "description": "HTML5 is a markup language used for structuring and presenting content on the World Wide Web",
-        "imgURL": "https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png",
-        "documentationURL": "https://developer.mozilla.org/en-US/docs/Web/HTML",
-        "features": [
-            {
-                "title": "Markup language",
-                "description": "It is a markup language, so it provides a flexible way to design web pages along with the text."
-            },
-            {
-                "title": "Platform-independent",
-                "description": "It is platform-independent because it can be displayed on any platform like Windows, Linux, and Macintosh, etc."
-            }
-        ],
-        "likes": [
-            {
-                "fullname": "Haider",
-                "gitAvatarURL": "https://avatars2.githubusercontent.com/u/20072661?s=460&u=636a882e755818dc0aacf5c68009e227a4769cc7&v=4",
-                "gitProfileURL": "https://github.com/mhaider110"
-            }
-        ]
-    }
+  {
+    "name": "HTML5",
+    "description": "HTML5 is a markup language used for structuring and presenting content on the World Wide Web",
+    "imgURL": "https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png",
+    "documentationURL": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+    "features": [
+      {
+        "title": "Markup language",
+        "description": "It is a markup language, so it provides a flexible way to design web pages along with the text."
+      },
+      {
+        "title": "Platform-independent",
+        "description": "It is platform-independent because it can be displayed on any platform like Windows, Linux, and Macintosh, etc."
+      }
+    ],
+    "likes": [
+      {
+        "fullname": "Haider",
+        "gitAvatarURL": "https://avatars2.githubusercontent.com/u/20072661?s=460&u=636a882e755818dc0aacf5c68009e227a4769cc7&v=4",
+        "gitProfileURL": "https://github.com/mhaider110"
+      }
+    ]
+  },
+  {
+    "name": "React",
+    "description": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.",
+    "imgURL": "https://reactjs.org/",
+    "documentationURL": "https://reactjs.org/docs/getting-started.html",
+    "features": [
+      {
+        "title": "Reusable Components",
+        "description": "Components are wonderful and React is based on them. You start with small things, which you use to build bigger things, which you use to build apps."
+      },
+      {
+        "title": "The Virtual DOM",
+        "description": "One of the really cool parts of React is the virtual DOM. Normally, when you develop an app that has a lot of user interaction and data updates, you have to carefully consider how your app structure is going to impact performance"
+      }
+    ],
+    "likes": [
+      {
+        "fullname": "Kuldeep Kumar",
+        "gitAvatarURL": "https://avatars3.githubusercontent.com/u/39633593?s=460&u=700c7cf01a90c7047c80d7a9640573ca8b05c320&v=4",
+        "gitProfileURL": "https://github.com/Kuldeep-Kumar-Sharma"
+      }
+    ]
+  }
 ]
