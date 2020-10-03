@@ -25,7 +25,7 @@
   {
     "name": "React",
     "description": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.",
-    "imgURL": "https://reactjs.org/",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
     "documentationURL": "https://reactjs.org/docs/getting-started.html",
     "features": [
       {
@@ -42,6 +42,11 @@
         "fullname": "Kuldeep Kumar",
         "gitAvatarURL": "https://avatars3.githubusercontent.com/u/39633593?s=460&u=700c7cf01a90c7047c80d7a9640573ca8b05c320&v=4",
         "gitProfileURL": "https://github.com/Kuldeep-Kumar-Sharma"
+      },
+      {
+        "fullname": "Haider",
+        "gitAvatarURL": "https://avatars2.githubusercontent.com/u/20072661?s=460&u=636a882e755818dc0aacf5c68009e227a4769cc7&v=4",
+        "gitProfileURL": "https://github.com/mhaider110"
       }
     ]
   }
