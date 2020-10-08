@@ -49,5 +49,28 @@
         "gitProfileURL": "https://github.com/mhaider110"
       }
     ]
+  },
+  {
+    "name": "Angular",
+    "description": "Angular (or Angular 2+ is a TypeScript-based open-source web application framework. Angular is a complete rewrite from the same team that built AngularJS.",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1024px-Angular_full_color_logo.svg.png",
+    "documentationURL": "https://angular.io/",
+    "features": [
+      {
+        "title": "Cross Platform",
+        "description": "It can be used in Progressive Web Apps, Native or Desktop"
+      },
+      {
+        "title": "Productivity",
+        "description": "Provides templates for easy to use syntax and it has its own Angular CLI."
+      }
+    ],
+    "likes": [
+      {
+        "fullname": "ey",
+        "gitAvatarURL": "https://avatars3.githubusercontent.com/u/28333443?s=400&v=4",
+        "gitProfileURL": "https://github.com/eyuu24"
+      }
+    ]
   }
 ]
