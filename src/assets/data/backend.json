@@ -49,5 +49,33 @@
         "gitProfileURL": "https://github.com/mhaider110"
       }
     ]
+  },
+  {
+    "name": "PHP",
+    "description": "PHP is a general-purpose scripting language especially suited to web development.",
+    "imgURL": "https://i.postimg.cc/vTyPWz0c/11.png",
+    "documentationURL": "https://www.php.net/docs.php",
+    "features": [
+      {
+        "title": "Loosely typed language",
+        "description": "PHP encourages the use of variables without declaring its data types. So this is taken care at the execution time depending on the value assigned to the variable. Even the variable name can be changed dynamically."
+      },
+      {
+        "title": "Platform independent",
+        "description": "PHP code will be run on every platform, Linux, Unix, Mac OS X, Windows."
+      }
+    ],
+    "likes": [
+      {
+        "fullname": "Ali M. Ayad",
+        "gitAvatarURL": "",
+        "gitProfileURL": "https://github.com/alimagedayad"
+      },
+      {
+        "fullname": "Haider",
+        "gitAvatarURL": "https://avatars2.githubusercontent.com/u/20072661?s=460&u=636a882e755818dc0aacf5c68009e227a4769cc7&v=4",
+        "gitProfileURL": "https://github.com/mhaider110"
+      }
+    ]
   }
 ]
