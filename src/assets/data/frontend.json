@@ -95,5 +95,13 @@
         "gitProfileURL": "https://github.com/Aishwarya-Venkatraman"
       }
     ]
+  },
+  {
+    "name": "Vue",
+    "description": "Vue.js is an open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications.",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg",
+    "documentationURL": "https://vuejs.org/",
+    "features": [],
+    "likes": []
   }
 ]
