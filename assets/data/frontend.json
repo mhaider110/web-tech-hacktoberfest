@@ -12,6 +12,10 @@
       {
         "title": "Platform-independent",
         "description": "It is platform-independent because it can be displayed on any platform like Windows, Linux, and Macintosh, etc."
+      },
+      {
+        "title": "Design Features",
+        "description": "It has cool design features like canvas, video embedding (without use of flash player) and audio embedding etc."
       }
     ],
     "likes": [
@@ -19,6 +23,11 @@
         "fullname": "Haider",
         "gitAvatarURL": "https://avatars2.githubusercontent.com/u/20072661?s=460&u=636a882e755818dc0aacf5c68009e227a4769cc7&v=4",
         "gitProfileURL": "https://github.com/mhaider110"
+      },
+      {
+        "fullname": "Aishwarya",
+        "gitAvatarURL": "https://avatars1.githubusercontent.com/u/65395892?s=460&u=3f4c5820b4031c8e9428bbaef9fa5ed16a2c3ec5&v=4",
+        "gitProfileURL": "https://github.com/Aishwarya-Venkatraman"
       }
     ]
   },
@@ -63,6 +72,10 @@
       {
         "title": "Productivity",
         "description": "Provides templates for easy to use syntax and it has its own Angular CLI."
+      },
+      {
+        "title": "Progressive Web Apps",
+        "description": "Gives an app-like experience to users with web platform."
       }
     ],
     "likes": [
@@ -75,7 +88,20 @@
         "fullname": "kaybrian",
         "gitAvatarURL": "https://avatars1.githubusercontent.com/u/46319683?s=460&u=334a6bc5466049e3087f0606a25d4bcf4bb3baab&v=4",
         "gitProfileURL": "https://github.com/kaybrian"
+      },
+      {
+        "fullname": "Aishwarya",
+        "gitAvatarURL": "https://avatars1.githubusercontent.com/u/65395892?s=460&u=3f4c5820b4031c8e9428bbaef9fa5ed16a2c3ec5&v=4",
+        "gitProfileURL": "https://github.com/Aishwarya-Venkatraman"
       }
     ]
+  },
+  {
+    "name": "Vue",
+    "description": "Vue.js is an open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications.",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg",
+    "documentationURL": "https://vuejs.org/",
+    "features": [],
+    "likes": []
   }
 ]
