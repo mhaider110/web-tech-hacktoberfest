@@ -1,11 +1,11 @@
 {
-  "name": "web-tech-hacktoberfest2020",
+  "name": "web-tech-hacktoberfest",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "build:prod": "ng build --prod --base-href=/web-tech-hacktoberfest2020/",
+    "build:prod": "ng build --prod --base-href=/web-tech-hacktoberfest/",
     "test": "ng test",
     "test:ci": "ng test --watch=false --browsers=ChromeHeadless",
     "lint": "ng lint",
